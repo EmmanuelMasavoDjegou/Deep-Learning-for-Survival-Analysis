@@ -14,9 +14,9 @@
 
 📊 Core Methods
 - [ ] 📘 Notebook: Non-parametric Procedures
-- [ ] 📘 Notebook: Cox Proportional Hazards Model
 - [ ] 📘 Notebook: Parametric Survival Models
-- [ ] 📘 Notebook: Accelerated Failure Time (AFT) Models
+- [ ] 📘 Notebook: Cox Proportional Hazards Model
+- [ ] 📘 Notebook: Accelerated Failure Time (AFT) Model
 
 🧩 Complex Data Structures
 - [ ] 📘 Notebook: Frailty Models (Shared & Nested)
