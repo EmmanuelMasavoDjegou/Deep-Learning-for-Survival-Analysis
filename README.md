@@ -6,7 +6,7 @@
 
 ## 📌 About
 
-This repository is a structured roadmap and hands-on portfolio built by a Ph.D. candidate in Statistics. It explores modern deep survival models applied to reliability engineering, biomedical studies and risk analysis—bridging traditional survival models and AI.
+This repository is a structured roadmap and hands-on portfolio built by a Ph.D. candidate in Statistics. It explores modern deep survival models applied to reliability engineering, biomedical studies and risk analysis—bridging survival Analysis and AI.
 
 ---
 
