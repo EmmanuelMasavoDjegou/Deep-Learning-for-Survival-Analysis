@@ -1,4 +1,4 @@
-# 🧠 Deep Survival Expert
+# Deep Survival Analysis
 
 > A curated journey to mastering Deep Learning for Survival Analysis, combining classical statistics with state-of-the-art neural models.
 
@@ -14,14 +14,12 @@ This repository is a structured roadmap and hands-on portfolio built by a Ph.D. 
 
 - Learn and implement classical and deep survival analysis methods.
 - Compare and evaluate survival models on real-world datasets.
-- Apply models to high-impact domains like cancer survival, ICU readmission, and customer churn.
-- Build a job-ready project portfolio in survival AI.
+- Build a job-ready project portfolio.
 
 ---
 
 ## 📂 Structure
 
-```bash
 deep-survival-expert/
 ├── notebooks/        # Step-by-step explorations
 ├── src/              # Core Python modules (models, training, metrics)
