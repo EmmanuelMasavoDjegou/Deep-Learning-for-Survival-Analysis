@@ -5,7 +5,7 @@
 ---
 
 ## 📁 00_Foundations
-- [ ] Write clear README with project vision & roadmap
+- [x] Write clear README with project vision & roadmap
 - [ ] Markdown: `Introduction to Survival Analysis`
 
 ---
@@ -13,7 +13,7 @@
 ## 📁 01_Classical_Models
 
 📊 Core Methods
-- [x] 📘 Notebook: Non-parametric Procedures
+- [ ] 📘 Notebook: Non-parametric Procedures
 - [ ] 📘 Notebook: Cox Proportional Hazards Model
 - [ ] 📘 Notebook: Parametric Survival Models
 - [ ] 📘 Notebook: Accelerated Failure Time (AFT) Models
