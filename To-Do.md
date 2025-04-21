@@ -13,7 +13,7 @@
 ## 📁 01_Classical_Models
 
 📊 Core Methods
-- [ ] 📘 Notebook: Non-parametric Procedures
+- [x] 📘 Notebook: Non-parametric Procedures
 - [ ] 📘 Notebook: Cox Proportional Hazards Model
 - [ ] 📘 Notebook: Parametric Survival Models
 - [ ] 📘 Notebook: Accelerated Failure Time (AFT) Models
