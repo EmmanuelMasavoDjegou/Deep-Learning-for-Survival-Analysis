@@ -6,7 +6,7 @@
 
 ## 📁 00_Foundations
 - [x] Write clear README with project vision & roadmap
-- [ ] Markdown: `Introduction to Survival Analysis`
+- [x] Notes: `Introduction to Survival Analysis`
 
 ---
 
