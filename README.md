@@ -16,7 +16,7 @@ This is a structured learning portfolio built by Emmanuel DJEGOU, Ph.D. candidat
 
 ## 🚀 Goals
 
-- Learn and implement classical and deep survival models  
+- Learn and implement deep survival models  
 - Evaluate performance across real-world datasets  
 - Build a strong project portfolio for academic + industry roles
 
