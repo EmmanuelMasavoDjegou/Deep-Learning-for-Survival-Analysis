@@ -11,49 +11,7 @@
 
 ---
 
-## 📁 01_Classical_Models
-
-📊 Core Methods
-- [x] 📘 Notebook: Non-parametric Procedures
-- [ ] 📘 Notebook: Parametric Survival Models
-- [ ] 📘 Notebook: Cox Proportional Hazards Model
-- [ ] 📘 Notebook: Accelerated Failure Time (AFT) Model
-
-🧩 Complex Data Structures
-- [ ] 📘 Notebook: Frailty Models (Shared & Nested)
-- [ ] 📘 Notebook: Recurrent Events Models
-- [ ] 📘 Notebook: Competing Risks Analysis
-- [ ] 📘 Notebook: Interval-Censored Survival Data
-- [ ] 📘 Notebook: Left-Truncation / Delayed Entry
-
-📐 Extensions & Real-World
-- [ ] 📘 Notebook: Multi-State Models (Markov & Semi-Markov)
-- [ ] 📘 Notebook: Cure Models (Mixture & Non-mixture)
-- [ ] 📘 Notebook: Time-Varying Effects in Cox Models
-- [ ] 📘 Notebook: Joint Models (Longitudinal + Time-to-Event)
-
-📦 Bayesian & Simulation
-- [ ] 📘 Notebook: Bayesian Survival Analysis (w/ PyMC, Stan)
-- [ ] 📘 Notebook: Simulation of Survival Data
-- [ ] 📘 Notebook: Posterior Predictive Survival Curves
-- [ ] 📘 Notebook: Sensitivity Analysis with Priors
-
-🧪 Diagnostics & Model Fit
-- [ ] 📘 Notebook: Proportional Hazards Assumption Checks
-- [ ] 📘 Notebook: Goodness-of-Fit for AFT & Parametric Models
-- [ ] 📘 Notebook: Cox-Snell Residuals, Martingale Residuals
-- [ ] 📘 Notebook: Model Selection — AIC, BIC, Cross-Validation
-
-📈 Evaluation & Validation
-- [ ] 📘 Notebook: Concordance Index, Harrell’s C
-- [ ] 📘 Notebook: Time-dependent AUC / ROC
-- [ ] 📘 Notebook: Brier Score & Integrated Brier Score
-- [ ] 📘 Notebook: Calibration Curves & Belts
-- [ ] 📘 Notebook: External Validation (Train/Test Split)
-
----
-
-## 📁 02_Deep_Models
+## 📁 01_Deep_Models
 
 🌐 Foundational Models
 - [ ] 📘 Notebook: DeepSurv (PyTorch)
@@ -115,7 +73,7 @@
 
 ---
 
-## 📁 03_Case_Studies
+## 📁 02_Case_Studies
 
 ### 🏭 Reliability Engineering
 - [ ] 📘 Case Study: **Reliability of Industrial Systems**
@@ -192,7 +150,7 @@
 
 ---
 
-## 📁 04_Portfolio_Project
+## 📁 03_Portfolio_Project
 
 ### 🗂️ Project Overview
 - [ ] **End-to-End Project Folder**
