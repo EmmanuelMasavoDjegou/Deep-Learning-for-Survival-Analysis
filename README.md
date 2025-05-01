@@ -6,7 +6,7 @@ A curated journey to mastering Deep Learning for Survival Analysis, combining cl
 
 ## 📌 About
 
-This is a structured learning portfolio built by Emmanuel DJEGOU, Ph.D. candidate in Statistics. It explores survival analysis models — from Kaplan-Meier to DeepSurv — applied to real-world problems in:
+This is a structured learning portfolio built by Emmanuel DJEGOU, Ph.D. candidate in Statistics. It focuses on Deep Survival models, exploring their theory and application to real-world problems using deep learning approaches to survival analysis.
 
 - 📊 Reliability Engineering
 - 🧬 Biomedical Sciences
@@ -27,12 +27,8 @@ This is a structured learning portfolio built by Emmanuel DJEGOU, Ph.D. candidat
 ```bash
 📦 deep-survival-analysis
  ┣ 00_foundations/
- ┣ 01_classical_models/
- ┣ 02_deep_models/
- ┣ 03_case_studies/
- ┣ 04_portfolio_project/
- ┣ data/
- ┣ slides/
- ┣ portfolio.md
+ ┣ 01_deep_models/
+ ┣ 02_case_studies/
+ ┣ 03_portfolio_project/
  ┣ todo.md
  ┗ README.md
